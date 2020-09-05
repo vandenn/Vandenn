@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm Evan! I'm a machine learning researcher, a software developer, and I specialize in the field of natural language processing and deep learning.
+
+### Contact Me 📫
+
+Send me an e-mail at [evan.livelo@gmail.com](mailto:evan.livelo@gmail.com)!
 
 <!--
 **Vandenn/Vandenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
