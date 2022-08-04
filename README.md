@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Evan! I'm a machine learning researcher, a software developer, and I specialize in the field of natural language processing and deep learning.
+I'm Evan! I'm a machine learning researcher, a data engineer, a software engineer, and I specialize in the field of natural language processing, computer vision, and deep learning.
 
 ### Contact Me 📫
 
