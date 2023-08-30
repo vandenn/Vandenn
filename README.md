@@ -4,7 +4,7 @@ I'm Evan! I'm a machine learning researcher, a data engineer, a software enginee
 
 ### Contact Me 📫
 
-Send me an e-mail at [evan.livelo@gmail.com](mailto:evan.livelo@gmail.com)!
+Visit my [website](https://www.evanlivelo.com) or send me an e-mail at [evan.livelo@gmail.com](mailto:evan.livelo@gmail.com)!
 
 <!--
 **Vandenn/Vandenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
